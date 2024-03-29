@@ -1,1 +1,4 @@
-*.skb
+dist/
+.venv/
+*.egg-info
+
